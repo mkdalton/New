@@ -1,0 +1,7 @@
+% if else end test
+
+if (0) % when type in 0 in () should have x = 0, when type 1, should have x = 1
+    x = 1
+else
+    x = 0
+end
